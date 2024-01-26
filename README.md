@@ -22,8 +22,8 @@
 
 # Full Stack Development
 
-|*No.*|*Name*|*Description*|*Preview*|*Code*|
-|---|---|---|---|---|
+|*No.*|*Name*|*Description*|*Code*|
+|---|---|---|---
 |1|**Care Home**|This app made with MyERN using react hook. It helps you to find a near Care Home, they provided health activites|[code](https://github.com/mdmostafa15/carehome)|
 
 
